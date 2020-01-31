@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 # Mention légal :
-En utilisant ce script vous acceptez tous les termes de ce mention légal.
+#En utilisant ce script vous acceptez tous les termes de ce mention légal.
 # Legal Disclaimer
 # By using or accessing this script you are accepting all the terms of this Legal Disclaimer, User Agreement, Payment Agreement and Privacy Agreement of Computer Security Student, LLC. 
 # http://www.computersecuritystudent.com/START/LEGAL/lesson1/index.html
